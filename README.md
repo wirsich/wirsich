@@ -1,5 +1,9 @@
 ### @wirsich 🦄
 
+[@wirsich-io](https://github.com/wirsich-io)
+[@digitty-io](https://github.com/@digitty-io)
+[@digitty-org](https://github.com/@digitty-org)
+
 <!--
 **wirsich/wirsich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
