@@ -4,6 +4,7 @@
 * [@wirsich.forks](https://github.com/wirsich-forks)
 * [@digitty-io](https://github.com/digitty-io)
 * [@digitty-org](https://github.com/digitty-org)
+* [@digitty-next](https://github.com/digitty-next)
 
 <!--
 **wirsich/wirsich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
