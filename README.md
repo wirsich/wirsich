@@ -1,6 +1,7 @@
 ### @wirsich 🦄
 
 * [@wirsich-io](https://github.com/wirsich-io)
+* [@wirsich.forks](https://github.com/wirsich-forks)
 * [@digitty-io](https://github.com/digitty-io)
 * [@digitty-org](https://github.com/digitty-org)
 
